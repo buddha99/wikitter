@@ -1,0 +1,19 @@
+{
+  "name": "wikitter",
+  "version": "1.0.0",
+  "description": "This is a project to show the factual differences between information in wikipedia and twitter, based on hashtags from twitter. In other words, it highlights the differences in what people say on twitter on topics mentioned by a hashtag, and an approriate matching topic page in wikipedia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buddha99/wikitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buddha99/wikitter/issues"
+  },
+  "homepage": "https://github.com/buddha99/wikitter#readme"
+}
